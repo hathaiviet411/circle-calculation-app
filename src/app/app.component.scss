@@ -1,0 +1,15 @@
+.zone-app-component {
+  .container {
+    .question {
+      margin-top: 20px;
+      .card {
+        .card-body {
+          p {
+            color: $bright-gray;
+            font-weight: 400;
+          }
+        }
+      }
+    };
+  };
+};
